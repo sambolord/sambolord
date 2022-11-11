@@ -18,7 +18,7 @@
 ```python
 name = "sambolord"
 who_i_am = ['Student','Coder','Addict','Hacker','business owner']
-age = 17
+age = nil
 Hacket Teams = [ MillerSec(founder) , CyberXploitTeam(Founding Member) , Silent Team ]
 link = [https://fb.me/miller742]
 school = [Federal University Of Technology, Akure]
