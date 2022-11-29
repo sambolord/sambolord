@@ -5,7 +5,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sambolord/&title=Profile%20Views)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=sambolord&exclude_repo=sambolord.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/Mile403)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=sambolord&exclude_repo=sambolord.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/sambolord)
 * Bug hunter 🕷
 * Python Developer 🐍
 
@@ -32,5 +32,4 @@ school = [Federal University Of Technology, Akure]
     📧 Email: forbidden.mil3z@gmail.com
 
 - ⚡ Fun fact: I don't know how to talk to people 
-
 
