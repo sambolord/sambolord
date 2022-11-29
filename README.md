@@ -19,7 +19,7 @@
 name = "sambolord"
 who_i_am = ['Student','Coder','Addict','Hacker','business owner']
 age = nil
-Hacket Teams = [ MillerSec(founder) , CyberXploitTeam(Founding Member) , Silent Team ]
+History = [ MillerSec(founder) , CyberXploitTeam(Founding Member) , Silent Team ]
 link = [https://fb.me/miller742]
 school = [Federal University Of Technology, Akure]
 ```
